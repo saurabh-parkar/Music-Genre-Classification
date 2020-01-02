@@ -4,4 +4,4 @@ Due to the enormous growth in the streaming music industry, both the users and t
 
 In this project, we plan to build models to classify audio clips into 8 music genres using 3 diﬀerent deep learning approaches and other regression models. We will be using features extracted from MFCC and Mel spectrogram as they retain both frequency as well as time information. Using these approaches will help us understand how the frequency and time domain features aﬀect the music classiﬁcation process and also help us compare deep learning models with classical machine learning algorithms.
 
-The source code of this project can be found here: https://drive.google.com/open?id=117dlxXh-aKZzYK4N9TpTtfGjeder-QB3
+Link to dataset - https://github.com/mdeff/fma
